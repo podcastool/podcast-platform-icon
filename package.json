@@ -24,7 +24,7 @@
   },
   "keywords": [],
   "files": [
-    "dist"
+    "icons"
   ],
   "scripts": {
     "prepublishOnly": "nr build",
